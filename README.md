@@ -1,4 +1,4 @@
-<h1 align="center">🙏🏼 Hey My Name is Anis</h1>
+<h1 align="center">🙏🏼 Hey my name is Anis</h1>
 <h3 align="center">A passionate Frontend Developer Specialized in React</h3>
 
 <h3 align="left">Connect with me:</h3>
