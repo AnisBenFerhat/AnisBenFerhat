@@ -1,5 +1,4 @@
 <h1 align="center">🙏🏼 Hey my name is Anis</h1>
-<h1 align="center">🙏🏼 Hey My Namee is Anis</h1>
 <h3 align="center">A passionate Frontend Developer Specialized in Javascrip | React | Typescript</h3>
 
 <h3 align="left">Connect with me:</h3>
