@@ -3,7 +3,7 @@
 👨‍💻 Frontend Engineer | JavaScript | React | TypeScript </br>
 🌍 Paris, France
 
-🌱 Exploring Next.js, GraphQL, and Web Design
+🌱 Exploring Next.js, Testing,  GraphQL, and Web Design
 
 ## About Me
 
