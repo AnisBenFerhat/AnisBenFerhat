@@ -9,6 +9,7 @@
   - Learning Testing and improving Web Design
 
 💼 Professional Journey
+  - 42 Piscine : 42 School Entry Exam (Aug 12 - Sep 6, 2024): Successfully completed the intense coding bootcamp, securing a spot at 42 as a future student
   - Frontend Developer Intern at Deezer (Mar 2023 - Sep 2023): Worked with the Frontend Listeners Team in Paris, focusing on improving user experiences and frontend performance
   - O'Clock School (Sep 2022 - Mar 2023): 6 months of intensive learning in JavaScript and React, including a 1-month group project
 
