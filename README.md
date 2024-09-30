@@ -1,29 +1,31 @@
 # Hey there, I'm Anis! 👋
 
-👨‍💻 Frontend Engineer | JavaScript | React | TypeScript </br>
-🌍 Paris, France
+👨‍💻 C Programmer | Frontend Developer | Shiatsu Assistant
+🌍 Based in Paris, France
 
-🌱 Exploring Next.js, Testing,  GraphQL, and Web Design
+📚 Current Focus
+  - Starting as a 42 Student in November 2024, in Paris
+  - Building skills in JavaScript, React, and Next.js
+  - Learning Testing and improving Web Design
 
-## About Me
+💼 Professional Journey
+  - Frontend Developer Intern at Deezer (Mar 2023 - Sep 2023): Worked with the Frontend Listeners Team in Paris, focusing on improving user experiences and frontend performance
+  - O'Clock School (Sep 2022 - Mar 2023): 6 months of intensive learning in JavaScript and React, including a 1-month group project
 
-🎓 Over 12 years of professional experience in retail, shop management, coaching </br>
-🎓 Graduated in Naturopathy and Therapeutic Shiatsu after 4 years of studies
+🌱 Ongoing Exploration
+  - Diving deeper into C programming at 42
+  - Working on personal projects to refine React and Next.js skills
+  - Learning how to efficiently test and improve code quality
 
-## What I Enjoy
+👨‍🏫 Other Roles
+  - Shiatsu Assistant: Helping first-year students in the art of Shiatsu at "Ecole de Shiatsu Thérapeutique of Bernard Bouheret"
+  - Football Player: Playing for AJLB
 
-- 🏋️‍♂️ Passionate about Sports | Football | Jujitsu
-- 🍳 Cooking | 📚 Reading | 🎮 Gaming
-- 🌍 Exploring | 👨‍🎓 Learning from People
-- Constantly seeking new tech innovations
-- Passionate about global cultures and languages
+🛠️ Current Projects
+  - Exploring C projects at 42 School
+  - Working on personal JavaScript/React applications
+  - Learning and mastering Web design principles
 
-## Future Exploration
-
-- 🔍 Exploring Backend languages like Python or Go
-- 🌏 Learning new languages such as Japanese
-
-## Current Projects
-
-- 🛠️ Working on Node, API Rest, PostgreSQL
-- 📚 Learning how to make beautiful websites via mastering CSS
+🌍 Personal Interests
+  - Passionate about well-being and helping others through healing and wellness
+  - Cooking and experimenting with new recipes
