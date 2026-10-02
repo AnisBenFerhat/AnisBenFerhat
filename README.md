@@ -32,13 +32,13 @@ Trained at **42 Paris** (common core completed), interned on the Core Product te
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/AnisBenFerhat/REPO_NAME">AURA</a></b><br>
+      <b><a href="https://github.com/transcendence-aura/transcendence_aura">AURA</a></b><br>
       <sub>Frontend Dev · Product Owner · Project Manager · team of 5</sub>
       <p>Full-stack e-commerce app with a social layer. I built the design system (10+ components), the shopping flows and full EN / FR / AR localisation with right-to-left layout, and ran the backlog and sprints.</p>
       <sub><code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Apollo</code> <code>NestJS</code></sub>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/AnisBenFerhat/REPO_NAME">Webserv</a></b><br>
+      <b><a href="https://github.com/AnisBenFerhat/webserv">Webserv</a></b><br>
       <sub>C++ Developer · team of 3</sub>
       <p>HTTP/1.1 server written from scratch: request routing, static files, uploads, CGI, virtual hosts and non-blocking I/O. The best way to understand what really happens behind a <code>fetch</code>.</p>
       <sub><code>C++</code> <code>HTTP</code> <code>Sockets</code></sub>
